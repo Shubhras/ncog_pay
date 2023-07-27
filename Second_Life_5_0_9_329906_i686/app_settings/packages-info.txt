@@ -1,0 +1,134 @@
+Copyright (c) 2014, Linden Research, Inc.
+
+SDL: 1.2.15
+Copyright (C) 1997-2012 Sam Lantinga
+
+apr_suite: 1.4.5.297252
+Copyright © 2012 The Apache Software Foundation, Licensed under the Apache License, Version 2.0.
+
+boost: 1.57
+(see individual source files)
+
+colladadom: 2.3.297450
+Copyright 2006 Sony Computer Entertainment Inc.
+
+curl: 7.47.0.312763
+Copyright (c) 1996 - 2014, Daniel Stenberg, (daniel@haxx.se).
+
+db: 5.1.25
+Copyright (c) 1990, 2010 Oracle and/or its affiliates.  All rights reserved.
+
+dbus_glib: 0.76
+Copyright (C) Red Hat Inc.
+
+dictionaries: 1.297347
+Copyright 2014 Apache OpenOffice software
+
+expat: 2.0.1.297014
+Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd and Clark Cooper - Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
+
+fmodex: 4.44.31.297261
+COPYRIGHT 2014 FIRELIGHT TECHNOLOGIES PTY LTD. ALL RIGHTS RESERVED
+
+fontconfig: 2.11.0
+Copyright (C) 2000,2001,2002,2003,2004,2006,2007 Keith Packard, 2005 Patrick Lam, 2009 Roozbeh Pournader, 2008,2009 Red Hat, Inc., 2008 Danilo Šegan, 2012 Google, Inc.
+
+freetype: 2.4.4.297053
+Copyright 2006, 2007, 2008, 2009, 2010 by David Turner, Robert Wilhelm, and Werner Lemberg.
+
+glext: 68
+Copyright (c) 2007-2010 The Khronos Group Inc.
+
+glh-linear: 0.0.0
+Copyright (c) 2000 Cass Everitt
+
+glod: 1.0pre4.296895
+Copyright 2003 Jonathan Cohen, Nat Duca, David Luebke, Brenden Schubert - Johns Hopkins University and University of Virginia
+
+google_breakpad: 1413.298033
+Copyright (c) 2006, Google Inc.
+
+googlemock: 1.7.0.297460
+Copyright 2008, Google Inc.
+
+gstreamer: 0.10.6.294903
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+
+gtk-atk-pango-glib: 0.1
+Copyright (various, see sources)
+
+havok-libs: 2012.1
+Uses Havok (TM) Physics. (c)Copyright 1999-2010 Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details.
+
+havok-llvm: 2.8
+Copyright (c) 2003-2010 University of Illinois at Urbana-Champaign.
+
+havok-source: 2012.1
+Uses Havok (TM) Physics. (c)Copyright 1999-2010 Havok.com Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details.
+
+icu4c: 4.8.1
+Copyright (c) 1995-2011 International Business Machines Corporation and others <http://source.icu-project.org>
+
+jpeglib: 8c.296854
+Copyright (C) 1991-2011, Thomas G. Lane, Guido Vollbeding.
+
+jsoncpp: 0.5.0.297281
+Copyright (c) 2007-2010 Baptiste Lepilleur
+
+kdu: 7.2.296932
+Kakadu software
+
+libhunspell: 1.3.2.296916
+See hunspell.txt
+
+libpng: 1.6.8.297051
+Copyright (c) 2004, 2006-2013 Glenn Randers-Pehrson
+
+libuuid: 1.6.2
+Copyright (c) 2004-2008 The OSSP Project <http://www.ossp.org/>
+
+libxml2: 2.9.1.297050
+Copyright (C) 1998-2012 Daniel Veillard.  All Rights Reserved.
+
+llappearance_utility: 0.0.1
+Copyright (c) 2000-2012, Linden Research, Inc.
+
+llphysicsextensions_source: 1.0.313564
+Copyright (c) 2010, Linden Research, Inc.
+
+ogg_vorbis: 1.2.2-1.3.2.296878
+Copyright (c) 2002, Xiph.org Foundation
+
+open-libndofdev: 0.3
+Copyright (c) 2008, Jan Ciger (jan.ciger (at) gmail.com)
+
+openal: 1.12.854-1.1.0.297677
+Creative Labs
+
+openjpeg: 1.4.297018
+Copyright (c) 2002-2007, Communications and Remote Sensing Laboratory, Universite catholique de Louvain (UCL), Belgium, Copyright (c) 2002-2007, Professor Benoit Macq, Copyright (c) 2001-2003, David Janssens, Copyright (c) 2002-2003, Yannick Verschueren, Copyright (c) 2003-2007, Francois-Olivier Devaux and Antonin Descampe, Copyright (c) 2005, Herve Drolon, FreeImage Team
+
+openssl: 1.0.1h.297168
+Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved; Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+
+pcre: 8.35.
+Copyright (c) 1997-2014 University of Cambridge; Copyright(c) 2009-2014 Zoltan Herczeg; Copyright (c) 2007-2012, Google Inc.
+
+slvoice: 3.2.0002.10426.302004
+2010 Vivox, including audio coding using Polycom¨ Siren14TM (ITU-T Rec. G.722.1 Annex C)
+
+tut: 2008.11.30
+Copyright 2002-2006 Vladimir Dyuzhev, Copyright 2007 Denis Kononenko, Copyright 2008-2009 Michał Rzechonek
+
+uriparser: 0.8.0.1
+Copyright (C) 2007, Weijia Song <songweijia@gmail.com>, Sebastian Pipping <webmaster@hartwork.org>
+
+vlc-bin: 2.2.3
+Copyright (C) 1998-2016 VLC authors and VideoLAN
+
+xmlrpc-epi: 0.54.1.297075
+Copyright: (C) 2000 Epinions, Inc.
+
+zlib: 1.2.8.296881
+Copyright (C) 1995-2013 Jean-loup Gailly and Mark Adler
+
